@@ -1,0 +1,15 @@
+.navi{
+  background-color: rgba(45,45,45,.85);
+  text-align: left;
+  align-items: left;
+  color: white;
+}
+
+.logo{
+  padding: 15px;
+}
+
+.logotext{
+  color: white;
+
+}

@@ -1,0 +1,15 @@
+.videoo {
+  margin-top:25px;
+  margin-left:400px;
+  border-radius: 25px;
+  animation: createBox 2.4s;
+}
+
+@keyframes createBox {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
